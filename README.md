@@ -10,6 +10,17 @@ It is my first foray into React Native.
 
 <img src="screenshot.png" alt="Screen Capture of Traffic Fatalities App" width="200"/>
 
+## TODO
+
+- [x] Initial development
+- [ ] Implement push notifications
+- [ ] Improve design
+- [ ] Refactor
+- [ ] Deploy to and test on real devices
+  - [ ] iOS
+  - [ ] Android
+- [ ] Release
+
 ## Running the project locally
 
 Complete the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions up until "Creating a new application" step before proceeding.

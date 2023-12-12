@@ -2,6 +2,8 @@
 
 This is a [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+Its intent is to remind people, throughout the day, how frequently lives are lost to traffic tragedies, and hopefully to come to see such fatalities as intolerable instead of inevitable.
+
 It is my first foray into React Native.
 
 ## Screenshot
